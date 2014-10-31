@@ -117,8 +117,8 @@ public class MainActivity
             RSSItem item = items.get(position);
             if (item != null)
             {
-                TextView tvPubDate = ((TextView)convertView.findViewById(R.id.tvPubDate));
-                TextView tvTitle = ((TextView)convertView.findViewById(R.id.tvTitle));
+                TextView tvPubDate = ((TextView)convertView.findViewById(R.id.feedPubDate));
+                TextView tvTitle = ((TextView)convertView.findViewById(R.id.feedTitle));
                 tvPubDate.setText(item.getDate());
                 tvTitle.setText(item.getTitle());
             }
