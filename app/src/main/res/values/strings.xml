@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Item list</string>
+    <string name="title_activity_show_message">Show Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="my_first_resource_string">This is my first resource string!</string>
+    <string name="edit_message">Edit me</string>
+    <string name="button_send">send</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TSTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">#7cb342</item>
+        <item name="android:colorPrimaryDark">#558b2f</item>
+        <item name="android:colorAccent">@android:color/darker_gray</item>
+        <item name="android:navigationBarColor">#558b2f</item>
+        <item name="android:actionMenuTextColor">#ffeeeeee</item>
+        <item name="android:actionBarStyle">@style/TSTheme.ActionBarStyle</item>
+    </style>
+
+    <style name="TSTheme.ActionBarStyle" parent="android:Widget.Material.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/TSTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="TSTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#558b2f</item>
+        <item name="android:textSize">32dp</item>
+    </style>
+
+</resources>
