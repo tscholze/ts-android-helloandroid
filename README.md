@@ -12,3 +12,8 @@ Due to the fact, that this is my Android palyground I wanna add some new feature
 
 If you wanna join me and explore as a beginner the new Android universe (min SDK: 21) - fork me or contact me on Twitter or find me on Google Plus. I'm the guy with the Panda avatar. ;)
 
+Screenshot
+===
+![](https://raw.github.com/username/projectname/branch/path/to/img.png "v0.0.1")
+
+
