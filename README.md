@@ -14,6 +14,6 @@ If you wanna join me and explore as a beginner the new Android universe (min SDK
 
 Screenshot
 ===
-![](https://raw.github.com/username/projectname/branch/path/to/img.png "v0.0.1")
+![](https://raw.githubusercontent.com/tscholze/ts-android-helloandroid/master/doc/v001.png "v0.0.1")
 
 
